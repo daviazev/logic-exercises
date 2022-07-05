@@ -21,7 +21,7 @@ const digitalRoot = (number) => {
   return parseFloat(result);
 };
 
-// console.log(digitalRoot(16));
-// console.log(digitalRoot(942));
-// console.log(digitalRoot(132189));
-// console.log(digitalRoot(999999999999999));
+console.log(digitalRoot(16));
+console.log(digitalRoot(942));
+console.log(digitalRoot(132189));
+console.log(digitalRoot(999999999999999));
