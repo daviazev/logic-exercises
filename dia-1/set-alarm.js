@@ -15,3 +15,5 @@ console.log(setAlarm(true, true));
 console.log(setAlarm(false, true));
 console.log(setAlarm(false, false));
 console.log(setAlarm(true, false));
+
+// feito no dia 05/07/2022
